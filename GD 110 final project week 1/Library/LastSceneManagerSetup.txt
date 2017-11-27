@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GD 210 Final.unity
+  isLoaded: 1
+  isActive: 1
